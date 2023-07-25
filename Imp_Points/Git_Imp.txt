@@ -1,0 +1,38 @@
+Git Important Points
+
+1. Download Gitcli
+
+2. Greate a repository in Github
+
+3. Create a Folder in local (Git_Practice)
+
+4. Open this folder in VS Code
+
+5. To Check if the code is connected to the repository or not (git remote -v) 
+
+6. To remove or disconnect a repository (git remote rm origin)
+
+7. To connect the Code to repository (git init)
+
+8. To Activate README.md file (git add README.md)
+
+9. To check the status of changes (git status)
+
+10. To remove a file (git rm --cached filename)
+
+11. To clear the terminal (cls)
+
+12. To add all the files (git add .)
+
+13. To commit your code (git commit -m "This is my first commit")
+
+14. To add github account (git config --global user.name “[firstname lastname]”)
+(git config --global user.email “[valid-email]”)
+
+15. To Check the branches (git branch) by default main branch is 'Master'
+
+16. To rename 'Master' branch (git branch -M main) always change the 'Master' branch to 'Main'
+
+17. To connect local repository to Github repository (git remote add origin https://github.com/Thakursahab13/gitpractise.git)
+
+18. To push Code to Github repository (git push -u origin main) then enter the password
