@@ -36,3 +36,12 @@ Git Important Points
 17. To connect local repository to Github repository (git remote add origin https://github.com/Thakursahab13/gitpractise.git)
 
 18. To push Code to Github repository (git push -u origin main) then enter the password
+
+19. To pull the code from repository (git pull origin main)
+
+20. To add gitignore file-> Create a file in github repository -> .gitignore -> choose python file type
+
+21. To clone a project into local system from repository 
+Make a folder -> command prompt -> Drive location (ex- C:, D:, E:) -> Copy the folder location -> (cd folder_location) -> Copy repository address -> git clone Repository_address
+
+  
